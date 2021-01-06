@@ -1,9 +1,10 @@
-# BoPD-screening-initiative
-ML model algorithm open source for BI BoPD patient screening project
+# Borderline Personality Disorder (BoPD) automatic disease screening tool
+
 ## Introduction
 The objective of the borderline personality disorder (BoPD) Automatic Screening Initiative is to advance timely identification of potential BoPD patients. This was made possible by the development of a machine learning algorithm. The algorithm screens electronic health record (EHR) data and automatically identifies patients with highly likely BoPD diagnosis for confirmation of clinical diagnosis.
 
 In the pilot phase, the algorithm has been incorporated into a portable screening tool based on WinPython, a portable distribution of Python programming language for Windows.
-## Manual
+## Develop environment
+The portable WinPython can be implemented under windows operation system.
 
-## Portable BoPDScreening Tool
+## Data used to develop the algorithm
