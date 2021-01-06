@@ -8,3 +8,4 @@ In the pilot phase, the algorithm has been incorporated into a portable screenin
 The portable WinPython can be implemented under windows operation system.
 
 ## Data used to develop the algorithm
+We use de-identified Electronic Health Record (EHR) from Cerner Health Fact data. Data in Health Facts is directly extracted from Electronic Medical Records (EMR) from hospitals who has data use agreement with Cerner. Encounters may include pharmacy, clinical and microbiology laboratory, admission, and billing information from affiliated patient care locations.
